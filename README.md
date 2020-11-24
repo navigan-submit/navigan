@@ -201,9 +201,9 @@ imgs_deformated = G(zs)
 ## Pretrained directions
 Annotated generators directions and gif examples sources: \
 FFHQ: https://www.dropbox.com/s/7m838ewhzgcb3v5/ffhq_weights_deformations.tar \
-Car: https://www.dropbox.com/s/rojdcfvnsdue10o/car_weights_deformations.tar \
-Horse: https://www.dropbox.com/s/ir1lg5v2yd4cmkx/horse_weights_deformations.tar \
-Church: https://www.dropbox.com/s/do9yt3bggmggehm/church_weights_deformations.tar
+LSUN-Car: https://www.dropbox.com/s/rojdcfvnsdue10o/car_weights_deformations.tar \
+LSUN-Horse: https://www.dropbox.com/s/ir1lg5v2yd4cmkx/horse_weights_deformations.tar \
+LSUN-Church: https://www.dropbox.com/s/do9yt3bggmggehm/church_weights_deformations.tar
 
 StyleGAN2 weights: https://www.dropbox.com/s/d0aas2fyc9e62g5/stylegan2_weights.tar \
 _generators weights are the original models weights converted to pytorch (see credits)_
